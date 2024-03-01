@@ -1,0 +1,1001 @@
+id,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+The Hungry Bear,Mexican,Medium,Queens,03:42,3,false
+BBQ Bonanza,Mexican,Expensive,Bronx,03:42,4,false
+The Hungry Bear,Mediterranean,Medium,Harlem,21:05,1,false
+Sizzle Steakhouse,Chinese,Cheap,Manhattan,23:55,3,false
+Deli Delight,Mexican,Cheap,Brooklyn,12:30,5,false
+Burger Barn,Japanese,Expensive,Staten Island,08:57,5,false
+Sizzle Steakhouse,Mexican,Expensive,Manhattan,17:10,5,false
+Pasta Paradise,Mediterranean,Medium,Manhattan,00:15,3,true
+The Hungry Bear,Indian,Cheap,Bronx,21:05,2,false
+Sushi Sensation,Greek,Medium,Queens,08:57,3,true
+The Hungry Bear,Greek,Cheap,Harlem,08:57,3,true
+Sushi Sensation,Chinese,Cheap,Brooklyn,12:30,4,true
+The Hungry Bear,Mediterranean,Expensive,Brooklyn,00:15,2,true
+The Hungry Bear,Chinese,Expensive,Harlem,00:15,2,false
+BBQ Bonanza,Japanese,Medium,Staten Island,03:42,4,true
+Noodle Nook,French,Expensive,Brooklyn,00:15,2,false
+Crispy Crust Pizzeria,Greek,Expensive,Manhattan,03:42,4,false
+Sushi Sensation,Korean,Medium,Manhattan,21:05,2,true
+Tasty Tacos,Japanese,Expensive,Bronx,12:30,5,false
+The Hungry Bear,Greek,Medium,Harlem,12:30,5,true
+Pasta Paradise,Korean,Expensive,Manhattan,23:55,1,true
+BBQ Bonanza,Korean,Medium,Brooklyn,08:57,3,true
+Noodle Nook,Greek,Expensive,Harlem,21:05,4,false
+Burger Barn,Mediterranean,Medium,Queens,03:42,5,false
+BBQ Bonanza,Indian,Medium,Harlem,08:57,4,true
+Burger Barn,Greek,Cheap,Harlem,17:10,3,false
+Noodle Nook,Korean,Expensive,Harlem,00:15,2,true
+Sushi Sensation,Greek,Cheap,Harlem,12:30,2,true
+Noodle Nook,Japanese,Cheap,Harlem,21:05,4,true
+BBQ Bonanza,Mediterranean,Expensive,Bronx,12:30,4,true
+Crispy Crust Pizzeria,Japanese,Medium,Harlem,03:42,4,false
+Deli Delight,Japanese,Expensive,Staten Island,12:30,5,false
+Sizzle Steakhouse,Greek,Expensive,Manhattan,17:10,3,true
+Crispy Crust Pizzeria,Mexican,Expensive,Manhattan,21:05,2,true
+BBQ Bonanza,French,Medium,Manhattan,23:55,2,false
+Tasty Tacos,Italian,Cheap,Harlem,21:05,5,true
+Noodle Nook,Italian,Expensive,Brooklyn,08:57,1,true
+Sushi Sensation,Indian,Cheap,Manhattan,23:55,4,true
+The Hungry Bear,Greek,Expensive,Staten Island,17:10,4,false
+Sushi Sensation,French,Medium,Manhattan,00:15,4,true
+Noodle Nook,Japanese,Medium,Queens,03:42,3,true
+Deli Delight,Japanese,Medium,Bronx,12:30,1,true
+Tasty Tacos,Chinese,Cheap,Brooklyn,00:15,2,true
+The Hungry Bear,Italian,Expensive,Manhattan,17:10,1,true
+Pasta Paradise,Thai,Expensive,Brooklyn,03:42,4,true
+Burger Barn,Mexican,Medium,Staten Island,12:30,5,true
+Noodle Nook,Japanese,Cheap,Harlem,17:10,1,true
+BBQ Bonanza,Italian,Expensive,Bronx,23:55,4,false
+Sizzle Steakhouse,Greek,Medium,Staten Island,17:10,3,true
+BBQ Bonanza,Italian,Medium,Manhattan,23:55,3,false
+Sizzle Steakhouse,Mexican,Medium,Brooklyn,23:55,3,true
+Deli Delight,French,Expensive,Manhattan,23:55,3,false
+Deli Delight,Indian,Medium,Manhattan,12:30,1,true
+Sushi Sensation,Thai,Expensive,Staten Island,17:10,5,true
+Burger Barn,Indian,Cheap,Staten Island,21:05,5,false
+Noodle Nook,Mediterranean,Medium,Queens,03:42,3,true
+Deli Delight,Mediterranean,Expensive,Bronx,21:05,1,false
+Sushi Sensation,Thai,Medium,Bronx,00:15,2,true
+Noodle Nook,Greek,Medium,Bronx,08:57,3,false
+The Hungry Bear,Italian,Expensive,Bronx,03:42,1,true
+Noodle Nook,Japanese,Expensive,Manhattan,03:42,3,true
+The Hungry Bear,Korean,Cheap,Queens,17:10,2,true
+BBQ Bonanza,Indian,Expensive,Bronx,00:15,5,true
+Burger Barn,Japanese,Cheap,Bronx,08:57,2,true
+BBQ Bonanza,Chinese,Expensive,Queens,03:42,4,false
+Crispy Crust Pizzeria,Italian,Cheap,Queens,17:10,3,true
+Tasty Tacos,Italian,Expensive,Staten Island,21:05,3,false
+Burger Barn,Italian,Cheap,Bronx,17:10,4,true
+BBQ Bonanza,Chinese,Expensive,Brooklyn,00:15,4,true
+The Hungry Bear,Mexican,Expensive,Brooklyn,12:30,1,false
+Sushi Sensation,Italian,Cheap,Bronx,17:10,2,false
+Sushi Sensation,Japanese,Cheap,Staten Island,23:55,2,true
+BBQ Bonanza,Japanese,Medium,Harlem,17:10,1,true
+Tasty Tacos,Korean,Medium,Brooklyn,12:30,3,false
+Noodle Nook,Indian,Cheap,Harlem,12:30,1,true
+Sizzle Steakhouse,Thai,Expensive,Manhattan,21:05,3,true
+The Hungry Bear,Chinese,Cheap,Harlem,23:55,4,true
+Deli Delight,Greek,Medium,Manhattan,00:15,4,true
+Noodle Nook,Chinese,Expensive,Staten Island,21:05,5,true
+Sizzle Steakhouse,Italian,Cheap,Queens,00:15,3,true
+Noodle Nook,Japanese,Medium,Harlem,12:30,2,false
+The Hungry Bear,Greek,Expensive,Staten Island,00:15,4,true
+Burger Barn,Indian,Cheap,Queens,23:55,4,false
+Deli Delight,Mexican,Cheap,Harlem,08:57,1,true
+BBQ Bonanza,Italian,Medium,Harlem,21:05,1,true
+Noodle Nook,Mediterranean,Medium,Staten Island,17:10,2,true
+Sushi Sensation,Korean,Expensive,Bronx,23:55,5,false
+Noodle Nook,Mediterranean,Cheap,Brooklyn,17:10,5,false
+Pasta Paradise,Chinese,Expensive,Staten Island,23:55,1,true
+Deli Delight,Korean,Cheap,Staten Island,21:05,3,true
+Crispy Crust Pizzeria,Mexican,Cheap,Brooklyn,00:15,1,true
+Sushi Sensation,Japanese,Expensive,Staten Island,23:55,3,true
+Burger Barn,French,Cheap,Brooklyn,21:05,3,false
+Pasta Paradise,Chinese,Cheap,Queens,03:42,1,false
+Sushi Sensation,Greek,Expensive,Queens,03:42,5,false
+Tasty Tacos,Indian,Medium,Bronx,12:30,4,true
+Pasta Paradise,Mediterranean,Medium,Manhattan,21:05,2,false
+Sushi Sensation,Mediterranean,Cheap,Staten Island,21:05,1,false
+Sizzle Steakhouse,Japanese,Expensive,Manhattan,03:42,2,true
+The Hungry Bear,Korean,Expensive,Bronx,23:55,1,true
+BBQ Bonanza,Korean,Cheap,Brooklyn,03:42,1,true
+Sizzle Steakhouse,French,Expensive,Bronx,00:15,1,false
+BBQ Bonanza,Chinese,Cheap,Harlem,23:55,2,true
+Sushi Sensation,Chinese,Medium,Queens,03:42,5,true
+BBQ Bonanza,French,Medium,Bronx,12:30,1,true
+The Hungry Bear,Indian,Expensive,Harlem,12:30,5,true
+Crispy Crust Pizzeria,Chinese,Medium,Manhattan,12:30,3,true
+Pasta Paradise,Mediterranean,Medium,Manhattan,08:57,2,true
+Deli Delight,Mediterranean,Medium,Staten Island,08:57,5,true
+Crispy Crust Pizzeria,Thai,Cheap,Bronx,17:10,1,true
+The Hungry Bear,Mexican,Medium,Harlem,08:57,3,false
+Crispy Crust Pizzeria,Japanese,Medium,Manhattan,17:10,3,false
+Crispy Crust Pizzeria,Mexican,Medium,Brooklyn,23:55,4,false
+Sushi Sensation,Greek,Expensive,Brooklyn,12:30,5,false
+Noodle Nook,Chinese,Expensive,Bronx,00:15,2,true
+Tasty Tacos,Greek,Medium,Queens,12:30,2,false
+Sushi Sensation,Mexican,Cheap,Brooklyn,21:05,4,true
+Burger Barn,Korean,Medium,Brooklyn,00:15,2,false
+BBQ Bonanza,Thai,Cheap,Brooklyn,08:57,4,false
+Deli Delight,French,Medium,Brooklyn,08:57,5,false
+Deli Delight,Chinese,Expensive,Staten Island,21:05,2,false
+Pasta Paradise,Indian,Cheap,Brooklyn,21:05,3,true
+BBQ Bonanza,Mediterranean,Medium,Manhattan,08:57,5,true
+Burger Barn,Mediterranean,Medium,Manhattan,00:15,2,false
+The Hungry Bear,Greek,Expensive,Staten Island,12:30,3,true
+The Hungry Bear,Greek,Cheap,Manhattan,21:05,1,true
+Tasty Tacos,Italian,Cheap,Brooklyn,00:15,5,true
+Noodle Nook,Korean,Expensive,Harlem,23:55,5,true
+Noodle Nook,Chinese,Medium,Brooklyn,12:30,3,false
+Sushi Sensation,Greek,Expensive,Staten Island,00:15,4,false
+BBQ Bonanza,Japanese,Cheap,Staten Island,03:42,2,false
+Crispy Crust Pizzeria,French,Expensive,Queens,17:10,2,true
+Noodle Nook,Korean,Cheap,Queens,00:15,4,false
+BBQ Bonanza,Korean,Cheap,Manhattan,23:55,3,true
+Crispy Crust Pizzeria,French,Medium,Brooklyn,08:57,1,true
+Pasta Paradise,Chinese,Expensive,Manhattan,12:30,4,false
+Noodle Nook,Italian,Cheap,Staten Island,00:15,3,true
+Pasta Paradise,French,Expensive,Bronx,12:30,5,true
+Burger Barn,Italian,Cheap,Harlem,08:57,3,true
+Burger Barn,Japanese,Expensive,Brooklyn,08:57,2,true
+Sizzle Steakhouse,Mexican,Expensive,Staten Island,08:57,3,true
+Noodle Nook,Mexican,Cheap,Staten Island,03:42,1,false
+Tasty Tacos,Mediterranean,Cheap,Queens,03:42,1,true
+Sushi Sensation,Thai,Cheap,Staten Island,17:10,3,true
+Burger Barn,Chinese,Cheap,Staten Island,23:55,5,true
+Sizzle Steakhouse,Thai,Cheap,Brooklyn,17:10,3,true
+Burger Barn,Mexican,Expensive,Staten Island,03:42,4,true
+Sushi Sensation,Thai,Medium,Brooklyn,03:42,2,true
+Deli Delight,Chinese,Cheap,Staten Island,00:15,2,false
+Burger Barn,Mexican,Cheap,Harlem,12:30,4,false
+The Hungry Bear,Mexican,Medium,Brooklyn,00:15,5,false
+Noodle Nook,French,Cheap,Harlem,21:05,2,false
+Noodle Nook,Japanese,Medium,Brooklyn,23:55,4,true
+Tasty Tacos,Mexican,Medium,Bronx,21:05,1,true
+Noodle Nook,Japanese,Expensive,Bronx,03:42,1,false
+Tasty Tacos,Mexican,Medium,Bronx,23:55,5,true
+The Hungry Bear,French,Expensive,Harlem,21:05,1,true
+Tasty Tacos,Japanese,Medium,Harlem,00:15,3,false
+Burger Barn,Indian,Expensive,Manhattan,21:05,3,false
+Noodle Nook,French,Medium,Bronx,23:55,1,false
+Deli Delight,Italian,Cheap,Bronx,23:55,4,false
+Deli Delight,French,Expensive,Staten Island,12:30,3,false
+Crispy Crust Pizzeria,Thai,Cheap,Queens,12:30,4,true
+Pasta Paradise,Indian,Expensive,Brooklyn,23:55,1,true
+Tasty Tacos,French,Cheap,Brooklyn,23:55,4,true
+Pasta Paradise,Thai,Expensive,Harlem,21:05,3,true
+Crispy Crust Pizzeria,Italian,Expensive,Bronx,03:42,4,false
+Crispy Crust Pizzeria,Mediterranean,Cheap,Staten Island,12:30,5,false
+Deli Delight,Mediterranean,Expensive,Harlem,08:57,1,true
+Pasta Paradise,Korean,Expensive,Manhattan,21:05,4,true
+Tasty Tacos,Thai,Medium,Bronx,03:42,2,true
+BBQ Bonanza,Indian,Cheap,Bronx,17:10,2,true
+BBQ Bonanza,Korean,Cheap,Staten Island,00:15,2,false
+Sizzle Steakhouse,French,Medium,Manhattan,00:15,1,false
+Sizzle Steakhouse,Chinese,Expensive,Brooklyn,21:05,2,true
+Sizzle Steakhouse,Indian,Cheap,Bronx,17:10,5,false
+Sushi Sensation,Korean,Expensive,Bronx,03:42,5,false
+Burger Barn,Chinese,Expensive,Staten Island,03:42,1,true
+The Hungry Bear,Greek,Medium,Manhattan,08:57,3,true
+Tasty Tacos,Mexican,Cheap,Queens,00:15,1,true
+Burger Barn,Greek,Medium,Bronx,21:05,1,true
+Sushi Sensation,Chinese,Cheap,Queens,21:05,2,false
+BBQ Bonanza,Chinese,Medium,Bronx,08:57,1,true
+Sushi Sensation,Japanese,Expensive,Queens,12:30,1,true
+BBQ Bonanza,Japanese,Cheap,Brooklyn,03:42,1,false
+Burger Barn,Thai,Medium,Queens,23:55,4,false
+BBQ Bonanza,French,Cheap,Brooklyn,21:05,2,true
+The Hungry Bear,Chinese,Cheap,Harlem,00:15,3,true
+Sizzle Steakhouse,French,Cheap,Bronx,21:05,1,true
+Deli Delight,Indian,Expensive,Manhattan,17:10,1,true
+Crispy Crust Pizzeria,Mexican,Medium,Queens,21:05,2,true
+Sushi Sensation,Greek,Cheap,Harlem,03:42,5,true
+Crispy Crust Pizzeria,Thai,Expensive,Manhattan,00:15,2,true
+Crispy Crust Pizzeria,Japanese,Medium,Brooklyn,12:30,1,true
+Sizzle Steakhouse,Italian,Medium,Brooklyn,08:57,2,false
+Crispy Crust Pizzeria,Indian,Cheap,Bronx,17:10,3,false
+Sushi Sensation,French,Medium,Queens,21:05,5,false
+The Hungry Bear,Chinese,Expensive,Manhattan,00:15,4,false
+Noodle Nook,Chinese,Cheap,Brooklyn,00:15,1,true
+Tasty Tacos,Thai,Cheap,Manhattan,21:05,4,false
+The Hungry Bear,French,Cheap,Queens,21:05,1,false
+Tasty Tacos,Italian,Medium,Brooklyn,21:05,1,false
+Burger Barn,Japanese,Cheap,Bronx,03:42,4,true
+Tasty Tacos,Mediterranean,Cheap,Manhattan,08:57,2,true
+Sizzle Steakhouse,Mediterranean,Expensive,Staten Island,08:57,2,false
+Sizzle Steakhouse,Mediterranean,Medium,Harlem,08:57,5,true
+Deli Delight,French,Cheap,Staten Island,12:30,2,true
+Pasta Paradise,Japanese,Medium,Manhattan,12:30,1,false
+Deli Delight,Chinese,Cheap,Harlem,21:05,4,false
+Noodle Nook,Thai,Medium,Manhattan,21:05,1,true
+Crispy Crust Pizzeria,French,Medium,Bronx,03:42,5,true
+Deli Delight,French,Expensive,Harlem,23:55,4,true
+BBQ Bonanza,Mediterranean,Cheap,Queens,08:57,1,true
+Pasta Paradise,French,Expensive,Brooklyn,23:55,2,true
+Noodle Nook,Italian,Medium,Brooklyn,17:10,5,false
+Sizzle Steakhouse,Italian,Expensive,Staten Island,12:30,3,true
+Sizzle Steakhouse,Chinese,Medium,Staten Island,03:42,3,false
+Sushi Sensation,Thai,Cheap,Brooklyn,03:42,2,true
+Pasta Paradise,Indian,Cheap,Staten Island,00:15,4,false
+Noodle Nook,Chinese,Cheap,Harlem,03:42,4,true
+Pasta Paradise,Chinese,Expensive,Bronx,00:15,5,true
+Noodle Nook,Chinese,Expensive,Staten Island,23:55,5,true
+Deli Delight,Greek,Cheap,Queens,23:55,1,true
+Deli Delight,Japanese,Medium,Harlem,08:57,4,true
+Crispy Crust Pizzeria,Indian,Expensive,Harlem,08:57,1,true
+The Hungry Bear,Greek,Medium,Harlem,00:15,4,false
+Sizzle Steakhouse,Thai,Cheap,Queens,17:10,3,true
+Noodle Nook,Indian,Cheap,Manhattan,00:15,2,false
+Sizzle Steakhouse,Greek,Expensive,Staten Island,23:55,4,false
+Sizzle Steakhouse,Greek,Cheap,Queens,03:42,2,false
+Sushi Sensation,Mexican,Expensive,Staten Island,23:55,3,false
+Deli Delight,French,Cheap,Bronx,21:05,4,false
+The Hungry Bear,Mediterranean,Expensive,Harlem,17:10,5,true
+Sizzle Steakhouse,Mediterranean,Expensive,Queens,23:55,3,false
+Tasty Tacos,Korean,Expensive,Manhattan,03:42,1,false
+Deli Delight,Chinese,Expensive,Queens,03:42,3,true
+Burger Barn,Korean,Expensive,Manhattan,08:57,2,true
+The Hungry Bear,Indian,Cheap,Queens,12:30,1,false
+The Hungry Bear,Mexican,Expensive,Brooklyn,23:55,3,false
+The Hungry Bear,French,Medium,Queens,08:57,1,true
+Sushi Sensation,Japanese,Expensive,Brooklyn,08:57,2,true
+Crispy Crust Pizzeria,Mexican,Medium,Bronx,21:05,5,false
+Pasta Paradise,Mexican,Cheap,Harlem,21:05,1,false
+Noodle Nook,Greek,Expensive,Staten Island,23:55,5,false
+Noodle Nook,Indian,Medium,Manhattan,00:15,3,true
+Crispy Crust Pizzeria,Mediterranean,Medium,Brooklyn,17:10,5,true
+Pasta Paradise,Korean,Medium,Brooklyn,17:10,2,false
+Crispy Crust Pizzeria,Korean,Cheap,Bronx,23:55,4,false
+Deli Delight,Italian,Medium,Queens,17:10,1,true
+Tasty Tacos,Chinese,Cheap,Queens,23:55,5,true
+Burger Barn,Mediterranean,Medium,Bronx,12:30,3,true
+Burger Barn,Mediterranean,Cheap,Manhattan,23:55,4,false
+BBQ Bonanza,Greek,Expensive,Manhattan,00:15,3,true
+Pasta Paradise,Thai,Expensive,Bronx,23:55,3,true
+Tasty Tacos,Mexican,Cheap,Brooklyn,00:15,4,true
+Noodle Nook,French,Cheap,Manhattan,17:10,5,true
+Noodle Nook,Indian,Expensive,Staten Island,12:30,3,false
+Noodle Nook,Indian,Expensive,Bronx,17:10,1,true
+Deli Delight,Greek,Expensive,Manhattan,17:10,3,true
+The Hungry Bear,Korean,Expensive,Brooklyn,23:55,2,false
+Burger Barn,Mexican,Expensive,Manhattan,23:55,3,false
+The Hungry Bear,Chinese,Medium,Brooklyn,23:55,2,false
+Sizzle Steakhouse,Korean,Medium,Harlem,03:42,4,true
+Burger Barn,Indian,Cheap,Bronx,03:42,5,true
+Sushi Sensation,Thai,Expensive,Manhattan,03:42,2,true
+Sizzle Steakhouse,Indian,Medium,Staten Island,21:05,2,true
+Burger Barn,Indian,Cheap,Staten Island,17:10,1,true
+Burger Barn,Japanese,Medium,Queens,00:15,1,true
+Pasta Paradise,Greek,Medium,Harlem,03:42,2,true
+Sushi Sensation,Italian,Medium,Queens,21:05,3,true
+Sushi Sensation,Greek,Expensive,Staten Island,23:55,1,true
+Noodle Nook,Italian,Expensive,Staten Island,23:55,1,false
+Sushi Sensation,Chinese,Expensive,Brooklyn,03:42,3,true
+BBQ Bonanza,Thai,Cheap,Brooklyn,00:15,2,true
+Tasty Tacos,Thai,Medium,Staten Island,03:42,4,false
+Tasty Tacos,Italian,Medium,Bronx,03:42,5,true
+Pasta Paradise,Indian,Medium,Bronx,23:55,4,false
+Pasta Paradise,Italian,Expensive,Brooklyn,21:05,1,true
+Crispy Crust Pizzeria,Greek,Cheap,Bronx,00:15,2,false
+Crispy Crust Pizzeria,French,Expensive,Brooklyn,21:05,3,true
+Tasty Tacos,Mexican,Cheap,Bronx,17:10,5,true
+Crispy Crust Pizzeria,Thai,Expensive,Manhattan,21:05,1,false
+Tasty Tacos,Thai,Cheap,Harlem,08:57,5,false
+Tasty Tacos,Mexican,Medium,Staten Island,03:42,1,false
+Sizzle Steakhouse,Greek,Expensive,Queens,00:15,2,false
+Crispy Crust Pizzeria,French,Cheap,Staten Island,17:10,1,false
+Sushi Sensation,Chinese,Cheap,Brooklyn,23:55,2,true
+Crispy Crust Pizzeria,Mediterranean,Medium,Queens,21:05,5,true
+Deli Delight,French,Medium,Manhattan,12:30,3,true
+Sushi Sensation,French,Expensive,Staten Island,23:55,5,false
+Noodle Nook,Mexican,Medium,Manhattan,08:57,4,false
+The Hungry Bear,Indian,Medium,Queens,12:30,1,true
+Noodle Nook,Chinese,Medium,Brooklyn,12:30,1,true
+Pasta Paradise,Italian,Medium,Brooklyn,03:42,2,true
+BBQ Bonanza,Chinese,Cheap,Brooklyn,21:05,3,true
+Deli Delight,Mexican,Cheap,Manhattan,12:30,4,true
+Tasty Tacos,Italian,Cheap,Bronx,08:57,4,false
+Sizzle Steakhouse,Italian,Cheap,Harlem,00:15,3,true
+Burger Barn,Chinese,Expensive,Brooklyn,08:57,1,false
+Pasta Paradise,French,Medium,Harlem,12:30,3,false
+Burger Barn,Mediterranean,Medium,Bronx,00:15,5,false
+Tasty Tacos,Indian,Expensive,Bronx,23:55,5,true
+The Hungry Bear,Korean,Cheap,Queens,00:15,2,true
+The Hungry Bear,Korean,Medium,Queens,03:42,4,false
+Burger Barn,Indian,Expensive,Manhattan,08:57,2,true
+Sushi Sensation,Chinese,Cheap,Staten Island,23:55,2,true
+Pasta Paradise,Italian,Medium,Manhattan,12:30,4,false
+Noodle Nook,Thai,Expensive,Manhattan,00:15,3,false
+Deli Delight,Italian,Cheap,Harlem,03:42,3,false
+Deli Delight,Greek,Medium,Queens,12:30,1,false
+Burger Barn,Greek,Medium,Staten Island,08:57,3,false
+Deli Delight,French,Expensive,Staten Island,12:30,4,true
+Pasta Paradise,Thai,Medium,Queens,00:15,1,true
+Noodle Nook,Mediterranean,Medium,Harlem,08:57,4,false
+Crispy Crust Pizzeria,Italian,Medium,Bronx,12:30,3,false
+Pasta Paradise,Italian,Cheap,Manhattan,23:55,5,false
+Tasty Tacos,French,Expensive,Harlem,17:10,3,true
+The Hungry Bear,Chinese,Expensive,Manhattan,00:15,1,true
+Tasty Tacos,Chinese,Cheap,Harlem,08:57,5,true
+Sizzle Steakhouse,Italian,Expensive,Bronx,08:57,1,false
+BBQ Bonanza,Mexican,Medium,Staten Island,00:15,1,true
+Tasty Tacos,Korean,Expensive,Queens,17:10,3,true
+Sushi Sensation,Mediterranean,Medium,Brooklyn,17:10,3,true
+Pasta Paradise,Chinese,Cheap,Harlem,23:55,3,true
+Sushi Sensation,Chinese,Cheap,Harlem,17:10,3,true
+Sushi Sensation,Thai,Cheap,Staten Island,03:42,5,false
+Crispy Crust Pizzeria,Mediterranean,Expensive,Harlem,21:05,1,true
+The Hungry Bear,Greek,Medium,Staten Island,23:55,4,true
+Sizzle Steakhouse,Japanese,Medium,Brooklyn,12:30,4,false
+Pasta Paradise,Japanese,Medium,Harlem,08:57,2,false
+Burger Barn,Korean,Cheap,Staten Island,03:42,5,true
+The Hungry Bear,Mexican,Expensive,Bronx,00:15,2,false
+Noodle Nook,Mexican,Cheap,Staten Island,12:30,5,false
+Sushi Sensation,Thai,Expensive,Bronx,08:57,1,true
+Noodle Nook,Chinese,Medium,Brooklyn,12:30,3,false
+Pasta Paradise,Chinese,Cheap,Brooklyn,17:10,3,false
+Noodle Nook,Chinese,Expensive,Harlem,00:15,4,true
+BBQ Bonanza,French,Expensive,Manhattan,12:30,2,true
+Crispy Crust Pizzeria,Indian,Cheap,Brooklyn,08:57,1,true
+Noodle Nook,Chinese,Expensive,Brooklyn,08:57,2,true
+The Hungry Bear,Mediterranean,Expensive,Manhattan,08:57,1,true
+Deli Delight,Chinese,Expensive,Bronx,00:15,5,true
+Sushi Sensation,Greek,Medium,Queens,23:55,3,false
+Burger Barn,Indian,Cheap,Harlem,03:42,3,false
+Pasta Paradise,Korean,Cheap,Queens,08:57,4,true
+Sizzle Steakhouse,Indian,Expensive,Queens,23:55,5,true
+Crispy Crust Pizzeria,Greek,Expensive,Harlem,17:10,3,true
+Sushi Sensation,Thai,Medium,Manhattan,08:57,3,true
+Tasty Tacos,Mediterranean,Medium,Queens,23:55,3,false
+The Hungry Bear,Indian,Medium,Bronx,00:15,5,false
+Noodle Nook,Japanese,Cheap,Manhattan,17:10,5,false
+Sizzle Steakhouse,Indian,Cheap,Bronx,21:05,2,false
+Deli Delight,Italian,Medium,Bronx,00:15,2,false
+The Hungry Bear,Mediterranean,Cheap,Staten Island,23:55,1,false
+Noodle Nook,Italian,Medium,Staten Island,21:05,5,false
+BBQ Bonanza,Korean,Expensive,Brooklyn,08:57,5,true
+BBQ Bonanza,Greek,Medium,Harlem,23:55,2,false
+Crispy Crust Pizzeria,Korean,Cheap,Manhattan,17:10,5,true
+Crispy Crust Pizzeria,Italian,Medium,Manhattan,03:42,3,true
+Noodle Nook,Mexican,Medium,Manhattan,23:55,4,false
+BBQ Bonanza,Thai,Cheap,Staten Island,12:30,4,true
+Pasta Paradise,Korean,Medium,Manhattan,12:30,3,false
+BBQ Bonanza,Mediterranean,Medium,Harlem,08:57,2,true
+Deli Delight,Mediterranean,Cheap,Queens,08:57,2,true
+Sushi Sensation,French,Medium,Staten Island,23:55,4,true
+Burger Barn,Chinese,Medium,Staten Island,03:42,2,true
+Sushi Sensation,Thai,Cheap,Bronx,08:57,4,true
+Burger Barn,Greek,Medium,Harlem,00:15,5,false
+Crispy Crust Pizzeria,Greek,Cheap,Manhattan,00:15,5,true
+BBQ Bonanza,Mediterranean,Expensive,Staten Island,03:42,2,true
+Tasty Tacos,Greek,Cheap,Manhattan,21:05,5,true
+BBQ Bonanza,Thai,Medium,Staten Island,03:42,5,true
+Noodle Nook,Japanese,Expensive,Brooklyn,03:42,2,true
+Noodle Nook,Korean,Medium,Manhattan,17:10,5,true
+Noodle Nook,Greek,Cheap,Harlem,21:05,2,true
+Deli Delight,Indian,Expensive,Staten Island,21:05,3,false
+Pasta Paradise,Greek,Expensive,Harlem,08:57,3,false
+Sushi Sensation,Indian,Cheap,Manhattan,03:42,1,true
+Sushi Sensation,Korean,Expensive,Staten Island,21:05,4,false
+Tasty Tacos,Greek,Medium,Bronx,23:55,5,true
+Tasty Tacos,Chinese,Expensive,Queens,17:10,5,false
+Noodle Nook,French,Cheap,Staten Island,00:15,1,false
+Sizzle Steakhouse,Italian,Medium,Brooklyn,17:10,2,true
+BBQ Bonanza,French,Medium,Brooklyn,17:10,5,false
+Sizzle Steakhouse,Chinese,Expensive,Brooklyn,08:57,1,false
+BBQ Bonanza,Mediterranean,Cheap,Manhattan,21:05,3,true
+Pasta Paradise,Mexican,Cheap,Bronx,21:05,5,false
+Crispy Crust Pizzeria,Italian,Medium,Queens,21:05,3,true
+Burger Barn,Mediterranean,Medium,Staten Island,03:42,4,true
+Pasta Paradise,Korean,Expensive,Brooklyn,03:42,5,false
+Sushi Sensation,Thai,Cheap,Harlem,23:55,1,false
+Pasta Paradise,Greek,Expensive,Bronx,00:15,4,true
+Sushi Sensation,Mexican,Cheap,Bronx,17:10,4,true
+Sizzle Steakhouse,Korean,Cheap,Brooklyn,21:05,3,true
+Tasty Tacos,Chinese,Expensive,Brooklyn,08:57,4,true
+The Hungry Bear,Japanese,Medium,Harlem,00:15,3,false
+Tasty Tacos,Mexican,Cheap,Manhattan,00:15,1,false
+Crispy Crust Pizzeria,Indian,Medium,Bronx,03:42,3,true
+Burger Barn,Chinese,Cheap,Bronx,17:10,2,true
+Sushi Sensation,Mexican,Medium,Bronx,08:57,3,false
+Noodle Nook,Mexican,Medium,Harlem,23:55,1,true
+Burger Barn,French,Medium,Bronx,23:55,5,true
+Sushi Sensation,Japanese,Expensive,Manhattan,21:05,1,true
+Deli Delight,Italian,Medium,Brooklyn,03:42,4,true
+Deli Delight,French,Expensive,Brooklyn,23:55,3,true
+Crispy Crust Pizzeria,Japanese,Medium,Bronx,17:10,5,false
+Deli Delight,Greek,Medium,Staten Island,08:57,1,false
+BBQ Bonanza,Italian,Cheap,Manhattan,00:15,3,true
+Sizzle Steakhouse,French,Cheap,Manhattan,08:57,3,false
+Burger Barn,Mediterranean,Medium,Harlem,08:57,4,false
+Pasta Paradise,Mexican,Medium,Staten Island,12:30,3,true
+Noodle Nook,Italian,Medium,Staten Island,21:05,4,false
+Deli Delight,Mediterranean,Medium,Staten Island,12:30,4,true
+Burger Barn,Japanese,Medium,Manhattan,21:05,4,true
+Crispy Crust Pizzeria,French,Cheap,Queens,00:15,5,false
+Sizzle Steakhouse,Mediterranean,Expensive,Brooklyn,23:55,1,true
+Deli Delight,Italian,Cheap,Queens,12:30,3,true
+Noodle Nook,Greek,Expensive,Bronx,00:15,4,true
+Deli Delight,Mexican,Cheap,Staten Island,08:57,2,false
+Sushi Sensation,Greek,Expensive,Bronx,03:42,2,true
+Noodle Nook,Korean,Cheap,Manhattan,21:05,3,false
+The Hungry Bear,Mediterranean,Medium,Staten Island,17:10,1,true
+Tasty Tacos,French,Expensive,Brooklyn,23:55,1,false
+Sushi Sensation,Greek,Expensive,Queens,21:05,3,false
+Sizzle Steakhouse,Greek,Medium,Queens,08:57,3,true
+The Hungry Bear,French,Medium,Bronx,00:15,4,true
+Crispy Crust Pizzeria,Japanese,Medium,Brooklyn,23:55,1,false
+The Hungry Bear,Japanese,Expensive,Queens,08:57,3,true
+Sizzle Steakhouse,Italian,Cheap,Harlem,17:10,4,false
+Pasta Paradise,Indian,Expensive,Brooklyn,03:42,5,true
+Deli Delight,Greek,Cheap,Harlem,03:42,3,false
+Noodle Nook,Greek,Cheap,Staten Island,00:15,4,true
+The Hungry Bear,Greek,Expensive,Harlem,12:30,3,false
+Crispy Crust Pizzeria,Italian,Expensive,Manhattan,21:05,4,true
+Sizzle Steakhouse,French,Expensive,Brooklyn,23:55,2,true
+BBQ Bonanza,Italian,Cheap,Brooklyn,17:10,1,true
+Noodle Nook,French,Expensive,Manhattan,12:30,2,true
+BBQ Bonanza,Mexican,Expensive,Staten Island,03:42,1,true
+BBQ Bonanza,Korean,Medium,Manhattan,12:30,2,false
+Crispy Crust Pizzeria,Mediterranean,Medium,Staten Island,00:15,1,true
+Deli Delight,French,Medium,Harlem,23:55,4,true
+Tasty Tacos,French,Medium,Manhattan,21:05,4,true
+Burger Barn,Korean,Medium,Manhattan,23:55,3,true
+Noodle Nook,Indian,Expensive,Manhattan,03:42,5,false
+Sushi Sensation,Korean,Expensive,Manhattan,03:42,5,true
+Pasta Paradise,Italian,Medium,Staten Island,08:57,4,false
+Sizzle Steakhouse,French,Expensive,Staten Island,12:30,1,false
+Sushi Sensation,Thai,Cheap,Staten Island,23:55,2,true
+Pasta Paradise,Japanese,Medium,Manhattan,03:42,3,false
+BBQ Bonanza,Greek,Medium,Bronx,12:30,3,true
+Deli Delight,Greek,Expensive,Harlem,23:55,1,false
+Sushi Sensation,Indian,Expensive,Harlem,23:55,4,true
+Pasta Paradise,Italian,Expensive,Staten Island,03:42,2,true
+Pasta Paradise,Italian,Expensive,Brooklyn,00:15,2,false
+Noodle Nook,Thai,Expensive,Harlem,12:30,1,true
+Deli Delight,Chinese,Expensive,Queens,21:05,5,false
+Sushi Sensation,Japanese,Cheap,Queens,08:57,1,true
+Noodle Nook,Mexican,Cheap,Queens,23:55,5,false
+Noodle Nook,Mediterranean,Cheap,Brooklyn,03:42,5,false
+Sushi Sensation,Korean,Expensive,Bronx,23:55,4,false
+Tasty Tacos,French,Cheap,Brooklyn,21:05,4,true
+Sizzle Steakhouse,French,Medium,Harlem,21:05,3,true
+The Hungry Bear,Mediterranean,Medium,Queens,03:42,1,false
+Burger Barn,Mexican,Expensive,Manhattan,08:57,5,true
+Noodle Nook,Greek,Medium,Harlem,23:55,4,false
+Pasta Paradise,Italian,Cheap,Manhattan,03:42,2,false
+The Hungry Bear,Greek,Medium,Harlem,00:15,4,false
+BBQ Bonanza,Mexican,Medium,Brooklyn,17:10,2,false
+Deli Delight,Mexican,Medium,Bronx,12:30,5,false
+Tasty Tacos,Greek,Cheap,Bronx,12:30,3,false
+Sushi Sensation,Japanese,Expensive,Brooklyn,08:57,2,true
+Crispy Crust Pizzeria,Thai,Medium,Staten Island,03:42,3,false
+Burger Barn,Mexican,Cheap,Harlem,08:57,4,true
+Pasta Paradise,French,Expensive,Brooklyn,21:05,5,true
+Sizzle Steakhouse,Chinese,Medium,Manhattan,23:55,4,true
+Burger Barn,Mediterranean,Medium,Queens,23:55,4,true
+Noodle Nook,Italian,Cheap,Queens,23:55,2,false
+Sushi Sensation,Thai,Cheap,Harlem,12:30,5,true
+Deli Delight,Mediterranean,Expensive,Brooklyn,17:10,1,false
+Burger Barn,Thai,Cheap,Queens,00:15,4,true
+BBQ Bonanza,Indian,Expensive,Staten Island,08:57,3,true
+Tasty Tacos,Mediterranean,Expensive,Bronx,23:55,2,false
+BBQ Bonanza,Indian,Expensive,Staten Island,08:57,5,false
+Burger Barn,French,Cheap,Manhattan,12:30,4,true
+Burger Barn,Mexican,Medium,Harlem,03:42,2,false
+Pasta Paradise,Greek,Expensive,Staten Island,17:10,3,true
+Noodle Nook,Italian,Cheap,Manhattan,03:42,5,false
+Tasty Tacos,Japanese,Medium,Harlem,00:15,2,false
+Noodle Nook,Korean,Medium,Manhattan,03:42,3,false
+Sizzle Steakhouse,Indian,Expensive,Manhattan,17:10,3,true
+Deli Delight,Japanese,Medium,Staten Island,12:30,2,false
+Burger Barn,Chinese,Expensive,Manhattan,21:05,4,false
+Tasty Tacos,Mediterranean,Cheap,Harlem,00:15,4,true
+Tasty Tacos,French,Medium,Manhattan,00:15,1,true
+Sushi Sensation,Mediterranean,Cheap,Bronx,00:15,2,false
+Crispy Crust Pizzeria,French,Expensive,Manhattan,03:42,4,true
+Tasty Tacos,French,Cheap,Harlem,12:30,3,false
+BBQ Bonanza,French,Expensive,Harlem,17:10,3,true
+Crispy Crust Pizzeria,French,Expensive,Brooklyn,03:42,2,true
+Pasta Paradise,Thai,Expensive,Brooklyn,21:05,2,true
+Sizzle Steakhouse,Thai,Medium,Brooklyn,08:57,4,false
+Sushi Sensation,Korean,Cheap,Bronx,00:15,1,true
+Deli Delight,Japanese,Cheap,Bronx,17:10,4,false
+Noodle Nook,Mediterranean,Medium,Harlem,21:05,2,true
+Tasty Tacos,Greek,Expensive,Manhattan,03:42,2,true
+The Hungry Bear,Indian,Cheap,Harlem,00:15,5,true
+Pasta Paradise,Greek,Expensive,Manhattan,00:15,2,false
+Crispy Crust Pizzeria,Italian,Cheap,Bronx,03:42,5,false
+Sushi Sensation,Chinese,Cheap,Manhattan,17:10,5,false
+Deli Delight,Indian,Expensive,Manhattan,12:30,5,false
+Crispy Crust Pizzeria,Italian,Cheap,Brooklyn,00:15,1,false
+Burger Barn,Chinese,Medium,Brooklyn,21:05,5,true
+Crispy Crust Pizzeria,Japanese,Medium,Staten Island,08:57,5,true
+Burger Barn,Chinese,Medium,Queens,08:57,3,false
+Burger Barn,Greek,Expensive,Staten Island,21:05,1,true
+Deli Delight,Italian,Expensive,Manhattan,08:57,5,true
+Crispy Crust Pizzeria,Indian,Medium,Brooklyn,17:10,2,false
+Noodle Nook,Italian,Expensive,Manhattan,23:55,3,false
+The Hungry Bear,Japanese,Expensive,Manhattan,21:05,5,true
+The Hungry Bear,Chinese,Expensive,Staten Island,12:30,3,true
+Pasta Paradise,Chinese,Medium,Staten Island,00:15,5,true
+Noodle Nook,Indian,Expensive,Bronx,17:10,4,false
+Burger Barn,Italian,Expensive,Staten Island,00:15,5,true
+Sushi Sensation,Chinese,Cheap,Brooklyn,12:30,2,true
+Burger Barn,French,Cheap,Harlem,08:57,5,false
+Sizzle Steakhouse,Mexican,Expensive,Brooklyn,12:30,3,false
+Sizzle Steakhouse,Italian,Cheap,Manhattan,21:05,1,false
+The Hungry Bear,Mexican,Expensive,Queens,03:42,3,true
+Sushi Sensation,Indian,Expensive,Harlem,00:15,4,false
+The Hungry Bear,Chinese,Expensive,Harlem,08:57,1,true
+Sizzle Steakhouse,Korean,Expensive,Brooklyn,00:15,5,false
+The Hungry Bear,Japanese,Medium,Bronx,21:05,4,false
+Noodle Nook,Japanese,Medium,Staten Island,17:10,3,false
+Pasta Paradise,Thai,Cheap,Harlem,03:42,5,false
+Deli Delight,Mediterranean,Expensive,Staten Island,17:10,2,true
+Burger Barn,Indian,Cheap,Harlem,12:30,5,true
+Burger Barn,French,Medium,Harlem,03:42,4,false
+Sushi Sensation,Japanese,Medium,Harlem,00:15,1,false
+Burger Barn,Thai,Cheap,Bronx,21:05,3,false
+Pasta Paradise,French,Cheap,Harlem,23:55,2,false
+BBQ Bonanza,Mediterranean,Expensive,Staten Island,23:55,3,true
+Sizzle Steakhouse,Thai,Cheap,Harlem,23:55,4,true
+Pasta Paradise,Japanese,Medium,Bronx,03:42,2,true
+BBQ Bonanza,Italian,Medium,Manhattan,23:55,3,true
+Deli Delight,Mediterranean,Cheap,Harlem,03:42,1,false
+Burger Barn,Mediterranean,Expensive,Bronx,03:42,3,true
+Tasty Tacos,Thai,Expensive,Staten Island,08:57,5,false
+Noodle Nook,Korean,Cheap,Queens,21:05,5,false
+Burger Barn,Chinese,Cheap,Staten Island,00:15,4,false
+Pasta Paradise,Korean,Cheap,Staten Island,00:15,1,false
+Deli Delight,Greek,Cheap,Queens,23:55,5,false
+Noodle Nook,Korean,Medium,Staten Island,21:05,5,true
+Sizzle Steakhouse,Mediterranean,Medium,Brooklyn,21:05,4,false
+Pasta Paradise,Indian,Expensive,Queens,23:55,3,false
+Deli Delight,Chinese,Expensive,Staten Island,23:55,5,true
+Crispy Crust Pizzeria,French,Cheap,Manhattan,03:42,3,false
+Crispy Crust Pizzeria,Indian,Expensive,Staten Island,00:15,5,true
+Pasta Paradise,Japanese,Cheap,Staten Island,00:15,3,true
+Tasty Tacos,Mexican,Expensive,Bronx,21:05,5,true
+The Hungry Bear,Mexican,Expensive,Bronx,08:57,5,true
+Tasty Tacos,Mediterranean,Cheap,Harlem,23:55,5,true
+Crispy Crust Pizzeria,Italian,Medium,Brooklyn,12:30,3,true
+Crispy Crust Pizzeria,Chinese,Cheap,Bronx,08:57,3,true
+The Hungry Bear,Korean,Cheap,Brooklyn,00:15,1,false
+Burger Barn,Thai,Cheap,Harlem,08:57,5,false
+Sushi Sensation,Indian,Cheap,Harlem,12:30,3,true
+Burger Barn,Mexican,Medium,Brooklyn,08:57,5,true
+Sizzle Steakhouse,Italian,Expensive,Brooklyn,17:10,1,false
+BBQ Bonanza,Japanese,Cheap,Manhattan,08:57,2,true
+Burger Barn,Italian,Expensive,Brooklyn,08:57,4,false
+Pasta Paradise,Thai,Expensive,Staten Island,21:05,5,false
+Deli Delight,Chinese,Medium,Queens,12:30,5,false
+Sizzle Steakhouse,Italian,Expensive,Harlem,08:57,4,false
+Sushi Sensation,Thai,Cheap,Brooklyn,03:42,2,false
+The Hungry Bear,Greek,Expensive,Queens,17:10,2,true
+Pasta Paradise,Greek,Medium,Manhattan,23:55,3,true
+The Hungry Bear,Chinese,Medium,Manhattan,17:10,5,false
+Sizzle Steakhouse,Mediterranean,Medium,Manhattan,08:57,4,true
+Deli Delight,Greek,Cheap,Manhattan,17:10,4,true
+Pasta Paradise,Chinese,Cheap,Staten Island,17:10,2,false
+BBQ Bonanza,Mediterranean,Expensive,Brooklyn,12:30,4,true
+Pasta Paradise,Korean,Expensive,Brooklyn,17:10,4,true
+The Hungry Bear,Thai,Medium,Manhattan,08:57,3,false
+Noodle Nook,Indian,Expensive,Queens,08:57,4,true
+The Hungry Bear,Mediterranean,Expensive,Harlem,12:30,3,true
+Noodle Nook,Indian,Medium,Bronx,23:55,3,true
+The Hungry Bear,Korean,Cheap,Bronx,12:30,1,true
+Burger Barn,Mexican,Medium,Bronx,17:10,4,true
+Sizzle Steakhouse,Thai,Expensive,Bronx,03:42,5,true
+Sushi Sensation,Thai,Medium,Queens,00:15,4,true
+Noodle Nook,Mediterranean,Expensive,Harlem,12:30,1,false
+Burger Barn,French,Cheap,Queens,08:57,3,false
+Tasty Tacos,Chinese,Expensive,Staten Island,03:42,3,true
+The Hungry Bear,Mediterranean,Medium,Staten Island,23:55,3,true
+Pasta Paradise,Korean,Cheap,Manhattan,12:30,4,true
+Sushi Sensation,Mexican,Cheap,Staten Island,21:05,5,true
+Sushi Sensation,Mediterranean,Expensive,Bronx,08:57,5,false
+Burger Barn,Greek,Cheap,Staten Island,00:15,3,true
+Sizzle Steakhouse,Greek,Cheap,Bronx,12:30,2,false
+Noodle Nook,Thai,Medium,Queens,12:30,2,true
+Pasta Paradise,Korean,Expensive,Brooklyn,03:42,4,true
+Noodle Nook,Mediterranean,Expensive,Staten Island,03:42,3,true
+Tasty Tacos,Mediterranean,Medium,Manhattan,08:57,2,false
+Tasty Tacos,Indian,Expensive,Manhattan,21:05,3,true
+The Hungry Bear,Italian,Expensive,Queens,12:30,3,false
+The Hungry Bear,Chinese,Expensive,Bronx,12:30,2,true
+Pasta Paradise,Thai,Cheap,Bronx,12:30,5,false
+BBQ Bonanza,Greek,Expensive,Staten Island,23:55,3,false
+Pasta Paradise,Korean,Cheap,Harlem,21:05,5,false
+BBQ Bonanza,Japanese,Expensive,Staten Island,03:42,2,false
+The Hungry Bear,Italian,Medium,Bronx,03:42,3,true
+Deli Delight,Indian,Medium,Queens,21:05,2,true
+Crispy Crust Pizzeria,Chinese,Cheap,Bronx,00:15,2,true
+Tasty Tacos,Thai,Cheap,Manhattan,23:55,4,true
+The Hungry Bear,Thai,Medium,Queens,12:30,1,true
+Tasty Tacos,Japanese,Medium,Brooklyn,21:05,5,false
+BBQ Bonanza,Chinese,Expensive,Manhattan,23:55,1,true
+Pasta Paradise,Mediterranean,Cheap,Bronx,03:42,3,false
+Noodle Nook,Korean,Expensive,Queens,23:55,2,false
+Sizzle Steakhouse,Mediterranean,Medium,Harlem,00:15,1,true
+Tasty Tacos,Greek,Expensive,Brooklyn,08:57,2,false
+BBQ Bonanza,Mediterranean,Cheap,Queens,21:05,3,false
+Sizzle Steakhouse,Mediterranean,Cheap,Queens,21:05,2,false
+Sizzle Steakhouse,Mediterranean,Medium,Brooklyn,12:30,2,true
+BBQ Bonanza,Mediterranean,Cheap,Queens,23:55,4,false
+The Hungry Bear,Chinese,Expensive,Brooklyn,03:42,5,false
+The Hungry Bear,Mediterranean,Cheap,Brooklyn,23:55,4,true
+Deli Delight,Italian,Medium,Manhattan,03:42,1,true
+Deli Delight,Indian,Medium,Staten Island,00:15,4,false
+Tasty Tacos,Mexican,Expensive,Brooklyn,23:55,5,false
+Tasty Tacos,Mexican,Cheap,Brooklyn,03:42,4,false
+Crispy Crust Pizzeria,Indian,Cheap,Queens,00:15,3,true
+Noodle Nook,Mexican,Medium,Brooklyn,23:55,4,false
+Crispy Crust Pizzeria,Italian,Medium,Brooklyn,12:30,1,false
+Sushi Sensation,Japanese,Cheap,Manhattan,17:10,4,true
+Burger Barn,Chinese,Medium,Manhattan,00:15,3,true
+BBQ Bonanza,Indian,Medium,Queens,12:30,1,true
+Sushi Sensation,Greek,Medium,Bronx,00:15,4,true
+Noodle Nook,Japanese,Cheap,Harlem,08:57,2,false
+Deli Delight,Indian,Cheap,Staten Island,12:30,4,true
+Deli Delight,Mexican,Cheap,Bronx,23:55,3,false
+The Hungry Bear,Japanese,Cheap,Staten Island,08:57,2,false
+Crispy Crust Pizzeria,Japanese,Expensive,Brooklyn,17:10,1,true
+BBQ Bonanza,French,Expensive,Manhattan,00:15,3,false
+Deli Delight,Japanese,Medium,Brooklyn,17:10,4,false
+Pasta Paradise,Japanese,Medium,Manhattan,08:57,3,true
+Crispy Crust Pizzeria,Indian,Medium,Bronx,23:55,5,true
+Crispy Crust Pizzeria,Indian,Expensive,Manhattan,00:15,3,true
+Crispy Crust Pizzeria,Thai,Cheap,Bronx,23:55,3,false
+Tasty Tacos,Japanese,Medium,Brooklyn,12:30,3,true
+Crispy Crust Pizzeria,Italian,Cheap,Harlem,03:42,4,true
+Deli Delight,Greek,Medium,Bronx,21:05,3,false
+BBQ Bonanza,Mexican,Expensive,Bronx,00:15,1,true
+Deli Delight,Thai,Expensive,Bronx,23:55,5,false
+The Hungry Bear,Italian,Medium,Staten Island,23:55,3,false
+Noodle Nook,Greek,Medium,Staten Island,12:30,1,false
+Sushi Sensation,Indian,Cheap,Harlem,17:10,1,true
+The Hungry Bear,Indian,Medium,Queens,08:57,2,true
+BBQ Bonanza,French,Medium,Manhattan,08:57,1,false
+Noodle Nook,Mediterranean,Medium,Brooklyn,17:10,4,false
+BBQ Bonanza,Indian,Cheap,Harlem,08:57,5,false
+Sushi Sensation,Chinese,Medium,Harlem,00:15,2,true
+Burger Barn,Italian,Cheap,Brooklyn,00:15,2,true
+Crispy Crust Pizzeria,French,Cheap,Staten Island,21:05,1,true
+BBQ Bonanza,Thai,Expensive,Staten Island,12:30,2,true
+Sizzle Steakhouse,Italian,Medium,Brooklyn,23:55,3,true
+Crispy Crust Pizzeria,Mediterranean,Medium,Staten Island,12:30,1,false
+Deli Delight,Mexican,Medium,Brooklyn,12:30,1,true
+The Hungry Bear,Italian,Expensive,Manhattan,08:57,4,false
+BBQ Bonanza,Thai,Cheap,Brooklyn,21:05,3,false
+Noodle Nook,Thai,Expensive,Brooklyn,23:55,1,true
+Deli Delight,Japanese,Cheap,Bronx,17:10,3,true
+Sizzle Steakhouse,Japanese,Cheap,Bronx,08:57,1,true
+Pasta Paradise,Japanese,Expensive,Queens,17:10,4,false
+BBQ Bonanza,Greek,Cheap,Manhattan,00:15,2,false
+Sushi Sensation,Korean,Expensive,Manhattan,23:55,4,true
+Deli Delight,French,Medium,Brooklyn,00:15,5,true
+Sushi Sensation,Thai,Medium,Bronx,03:42,3,false
+Noodle Nook,Greek,Expensive,Brooklyn,17:10,2,false
+Noodle Nook,Italian,Medium,Queens,03:42,1,true
+The Hungry Bear,Thai,Expensive,Manhattan,03:42,2,false
+BBQ Bonanza,Italian,Cheap,Brooklyn,08:57,4,true
+Noodle Nook,Greek,Expensive,Queens,00:15,3,true
+Tasty Tacos,Thai,Expensive,Manhattan,23:55,3,true
+Noodle Nook,French,Cheap,Queens,03:42,3,false
+Tasty Tacos,Italian,Cheap,Bronx,00:15,5,false
+Pasta Paradise,Greek,Cheap,Brooklyn,17:10,3,true
+Pasta Paradise,Mediterranean,Expensive,Brooklyn,23:55,3,false
+Burger Barn,Italian,Medium,Queens,21:05,4,true
+Noodle Nook,Chinese,Cheap,Queens,23:55,5,false
+Noodle Nook,Greek,Expensive,Staten Island,03:42,3,false
+Sushi Sensation,Thai,Cheap,Manhattan,08:57,4,false
+Crispy Crust Pizzeria,Italian,Cheap,Harlem,12:30,5,false
+Crispy Crust Pizzeria,French,Expensive,Staten Island,03:42,3,true
+Burger Barn,Japanese,Medium,Manhattan,21:05,3,true
+Burger Barn,Thai,Cheap,Manhattan,03:42,4,false
+Burger Barn,French,Expensive,Harlem,08:57,2,false
+Pasta Paradise,Greek,Medium,Harlem,12:30,3,true
+Burger Barn,Thai,Expensive,Bronx,00:15,4,true
+Sushi Sensation,Korean,Expensive,Manhattan,17:10,4,true
+The Hungry Bear,Chinese,Cheap,Harlem,03:42,1,true
+Burger Barn,Italian,Expensive,Manhattan,03:42,5,true
+Burger Barn,Indian,Medium,Harlem,23:55,4,false
+Sizzle Steakhouse,French,Cheap,Brooklyn,17:10,2,true
+Sushi Sensation,Thai,Medium,Queens,12:30,4,true
+Sushi Sensation,Greek,Medium,Harlem,00:15,4,false
+Pasta Paradise,French,Medium,Brooklyn,23:55,1,false
+The Hungry Bear,Indian,Medium,Brooklyn,12:30,2,true
+Sushi Sensation,Italian,Cheap,Queens,21:05,1,true
+Noodle Nook,Japanese,Cheap,Manhattan,17:10,5,false
+Deli Delight,Japanese,Medium,Brooklyn,17:10,5,true
+Noodle Nook,Indian,Medium,Harlem,03:42,4,true
+Pasta Paradise,Greek,Cheap,Bronx,17:10,4,false
+Tasty Tacos,Greek,Expensive,Staten Island,17:10,5,true
+Noodle Nook,Thai,Expensive,Harlem,08:57,5,true
+BBQ Bonanza,Thai,Medium,Brooklyn,17:10,4,true
+Sizzle Steakhouse,Japanese,Medium,Staten Island,03:42,5,false
+Sushi Sensation,Thai,Expensive,Staten Island,12:30,3,false
+Sizzle Steakhouse,Mexican,Medium,Manhattan,17:10,3,true
+BBQ Bonanza,Italian,Expensive,Staten Island,12:30,1,true
+Pasta Paradise,Chinese,Cheap,Manhattan,12:30,1,false
+Pasta Paradise,Thai,Expensive,Brooklyn,12:30,5,false
+Sushi Sensation,Thai,Medium,Harlem,12:30,5,false
+The Hungry Bear,Japanese,Medium,Manhattan,12:30,1,true
+Tasty Tacos,Korean,Cheap,Harlem,17:10,1,true
+Noodle Nook,Chinese,Medium,Brooklyn,21:05,1,false
+Sizzle Steakhouse,Chinese,Cheap,Queens,03:42,4,false
+Tasty Tacos,Japanese,Cheap,Staten Island,17:10,1,true
+Noodle Nook,Mexican,Cheap,Bronx,00:15,4,false
+Burger Barn,Italian,Medium,Staten Island,03:42,5,true
+Burger Barn,Chinese,Cheap,Staten Island,08:57,2,true
+Sizzle Steakhouse,Korean,Cheap,Harlem,08:57,5,true
+Tasty Tacos,Japanese,Medium,Manhattan,21:05,4,false
+Sushi Sensation,Korean,Cheap,Staten Island,23:55,4,true
+The Hungry Bear,Indian,Expensive,Brooklyn,12:30,5,false
+Sushi Sensation,Chinese,Cheap,Manhattan,23:55,2,false
+Crispy Crust Pizzeria,Mediterranean,Cheap,Staten Island,23:55,5,true
+Burger Barn,French,Cheap,Bronx,17:10,3,true
+BBQ Bonanza,Indian,Expensive,Brooklyn,23:55,4,false
+Sizzle Steakhouse,Korean,Medium,Harlem,03:42,3,true
+Crispy Crust Pizzeria,Korean,Expensive,Queens,00:15,4,false
+Sushi Sensation,Chinese,Medium,Harlem,08:57,2,false
+Noodle Nook,Mexican,Medium,Staten Island,08:57,1,true
+BBQ Bonanza,Chinese,Cheap,Brooklyn,03:42,4,true
+Sushi Sensation,Greek,Cheap,Bronx,17:10,2,true
+Tasty Tacos,Japanese,Cheap,Bronx,12:30,5,true
+Burger Barn,Indian,Expensive,Queens,17:10,5,true
+Burger Barn,Indian,Expensive,Bronx,03:42,2,true
+Burger Barn,Mexican,Expensive,Bronx,23:55,1,true
+Crispy Crust Pizzeria,Japanese,Expensive,Harlem,23:55,2,true
+The Hungry Bear,Japanese,Expensive,Queens,17:10,3,true
+Pasta Paradise,Thai,Cheap,Staten Island,12:30,4,false
+Pasta Paradise,Mediterranean,Cheap,Brooklyn,17:10,3,true
+Deli Delight,Greek,Medium,Queens,03:42,3,false
+Sushi Sensation,Japanese,Cheap,Bronx,00:15,5,true
+Tasty Tacos,Italian,Expensive,Queens,08:57,3,true
+Pasta Paradise,Mediterranean,Medium,Harlem,03:42,4,true
+Tasty Tacos,Greek,Expensive,Bronx,23:55,5,false
+Sushi Sensation,Greek,Expensive,Manhattan,23:55,2,false
+BBQ Bonanza,Chinese,Cheap,Queens,12:30,1,true
+Noodle Nook,French,Cheap,Queens,03:42,2,true
+Noodle Nook,Japanese,Medium,Bronx,23:55,3,false
+Pasta Paradise,French,Expensive,Bronx,21:05,2,true
+The Hungry Bear,Greek,Medium,Manhattan,17:10,4,false
+Sizzle Steakhouse,Indian,Medium,Bronx,03:42,2,false
+Noodle Nook,Chinese,Cheap,Brooklyn,03:42,1,true
+Sushi Sensation,Japanese,Medium,Harlem,23:55,1,true
+Pasta Paradise,Korean,Expensive,Bronx,03:42,2,true
+Pasta Paradise,Chinese,Medium,Manhattan,00:15,5,false
+The Hungry Bear,Korean,Medium,Manhattan,08:57,1,true
+Sizzle Steakhouse,Japanese,Expensive,Bronx,17:10,1,false
+Deli Delight,Greek,Cheap,Staten Island,00:15,3,true
+BBQ Bonanza,Chinese,Expensive,Queens,23:55,1,true
+The Hungry Bear,Japanese,Expensive,Manhattan,12:30,2,true
+Sizzle Steakhouse,Greek,Cheap,Staten Island,00:15,2,false
+Tasty Tacos,Mediterranean,Medium,Staten Island,21:05,4,false
+Sizzle Steakhouse,Mediterranean,Expensive,Manhattan,12:30,5,true
+BBQ Bonanza,Mediterranean,Expensive,Queens,03:42,1,false
+Crispy Crust Pizzeria,Thai,Cheap,Bronx,00:15,2,true
+Sushi Sensation,Indian,Cheap,Brooklyn,08:57,4,false
+Deli Delight,Korean,Medium,Brooklyn,00:15,4,false
+The Hungry Bear,Greek,Medium,Brooklyn,12:30,2,false
+Tasty Tacos,Thai,Cheap,Harlem,17:10,4,false
+Burger Barn,French,Medium,Harlem,00:15,4,true
+Burger Barn,Indian,Expensive,Staten Island,08:57,3,true
+Pasta Paradise,Thai,Medium,Brooklyn,17:10,4,false
+Tasty Tacos,Indian,Cheap,Brooklyn,17:10,1,true
+The Hungry Bear,Japanese,Cheap,Harlem,23:55,4,false
+BBQ Bonanza,French,Cheap,Brooklyn,00:15,3,false
+Pasta Paradise,Chinese,Expensive,Brooklyn,00:15,4,false
+Sushi Sensation,Mexican,Medium,Brooklyn,03:42,1,false
+BBQ Bonanza,Indian,Medium,Manhattan,23:55,4,false
+Sushi Sensation,Greek,Medium,Staten Island,12:30,1,true
+Deli Delight,Indian,Cheap,Brooklyn,00:15,3,false
+BBQ Bonanza,Japanese,Medium,Queens,17:10,1,true
+Sizzle Steakhouse,Italian,Cheap,Harlem,23:55,4,false
+Pasta Paradise,Italian,Expensive,Brooklyn,00:15,1,true
+Sizzle Steakhouse,French,Medium,Bronx,03:42,1,false
+Crispy Crust Pizzeria,French,Medium,Manhattan,21:05,1,false
+Burger Barn,Mexican,Expensive,Queens,12:30,4,false
+Crispy Crust Pizzeria,Chinese,Medium,Brooklyn,23:55,2,true
+Pasta Paradise,Greek,Cheap,Queens,21:05,5,false
+Deli Delight,Chinese,Medium,Staten Island,21:05,4,true
+Deli Delight,Japanese,Cheap,Brooklyn,12:30,1,false
+Crispy Crust Pizzeria,Thai,Expensive,Manhattan,03:42,5,true
+BBQ Bonanza,Mexican,Cheap,Brooklyn,21:05,4,true
+Burger Barn,Greek,Cheap,Staten Island,00:15,4,false
+Tasty Tacos,Mexican,Expensive,Staten Island,21:05,4,true
+Sizzle Steakhouse,Japanese,Expensive,Manhattan,12:30,3,false
+Burger Barn,Greek,Expensive,Harlem,00:15,3,false
+The Hungry Bear,Italian,Medium,Harlem,03:42,5,true
+Sushi Sensation,French,Cheap,Staten Island,23:55,4,false
+Burger Barn,Chinese,Expensive,Harlem,08:57,4,true
+Sizzle Steakhouse,Mexican,Cheap,Brooklyn,00:15,4,true
+Deli Delight,Mexican,Cheap,Staten Island,03:42,3,false
+Deli Delight,Korean,Expensive,Harlem,08:57,2,true
+Sizzle Steakhouse,Mexican,Medium,Manhattan,03:42,1,false
+Crispy Crust Pizzeria,Italian,Expensive,Bronx,21:05,1,true
+Sizzle Steakhouse,Greek,Cheap,Queens,21:05,3,true
+Sizzle Steakhouse,Chinese,Expensive,Harlem,03:42,3,true
+Deli Delight,Mexican,Cheap,Brooklyn,23:55,2,false
+BBQ Bonanza,Thai,Expensive,Bronx,03:42,2,true
+The Hungry Bear,Mediterranean,Cheap,Bronx,17:10,3,false
+Pasta Paradise,Greek,Expensive,Manhattan,23:55,1,false
+Deli Delight,Japanese,Expensive,Harlem,03:42,4,false
+BBQ Bonanza,Mexican,Cheap,Staten Island,21:05,5,false
+Pasta Paradise,Mediterranean,Medium,Manhattan,21:05,2,true
+Pasta Paradise,Indian,Expensive,Bronx,12:30,5,true
+Sizzle Steakhouse,Chinese,Medium,Bronx,23:55,4,false
+Crispy Crust Pizzeria,Italian,Cheap,Brooklyn,12:30,3,false
+Pasta Paradise,Indian,Medium,Bronx,03:42,4,true
+Sushi Sensation,Korean,Expensive,Bronx,00:15,3,true
+Sushi Sensation,Mexican,Expensive,Manhattan,21:05,1,false
+Crispy Crust Pizzeria,Italian,Cheap,Brooklyn,03:42,5,false
+Pasta Paradise,French,Expensive,Harlem,23:55,5,true
+Tasty Tacos,Mexican,Expensive,Brooklyn,17:10,1,false
+Deli Delight,Mediterranean,Expensive,Bronx,12:30,1,false
+Pasta Paradise,Indian,Expensive,Harlem,23:55,3,true
+Deli Delight,French,Cheap,Brooklyn,23:55,5,true
+Burger Barn,Mexican,Cheap,Harlem,12:30,4,true
+BBQ Bonanza,Thai,Expensive,Staten Island,17:10,3,false
+BBQ Bonanza,Italian,Cheap,Brooklyn,03:42,5,true
+BBQ Bonanza,Indian,Medium,Manhattan,08:57,4,false
+Noodle Nook,Thai,Expensive,Manhattan,08:57,2,false
+Pasta Paradise,Italian,Expensive,Queens,03:42,2,true
+Burger Barn,Thai,Cheap,Brooklyn,17:10,1,true
+Crispy Crust Pizzeria,Chinese,Medium,Queens,12:30,5,true
+Sushi Sensation,Japanese,Expensive,Staten Island,03:42,3,true
+The Hungry Bear,Thai,Medium,Brooklyn,12:30,3,true
+Crispy Crust Pizzeria,Korean,Cheap,Staten Island,08:57,2,false
+Deli Delight,Mediterranean,Medium,Bronx,21:05,4,false
+Noodle Nook,Mexican,Expensive,Queens,03:42,4,true
+The Hungry Bear,Greek,Medium,Manhattan,00:15,2,true
+Noodle Nook,Mexican,Medium,Brooklyn,03:42,1,false
+Burger Barn,Korean,Expensive,Manhattan,00:15,1,false
+The Hungry Bear,Italian,Medium,Harlem,03:42,3,false
+BBQ Bonanza,Italian,Expensive,Bronx,00:15,1,true
+Noodle Nook,Mexican,Cheap,Brooklyn,17:10,4,true
+Deli Delight,Greek,Expensive,Staten Island,23:55,3,true
+Crispy Crust Pizzeria,Mexican,Medium,Staten Island,03:42,1,true
+Sizzle Steakhouse,Indian,Cheap,Bronx,23:55,3,false
+Noodle Nook,Mexican,Cheap,Staten Island,23:55,1,false
+Noodle Nook,Chinese,Medium,Staten Island,12:30,3,true
+Burger Barn,Thai,Cheap,Queens,00:15,3,true
+Sizzle Steakhouse,Thai,Expensive,Queens,00:15,5,false
+BBQ Bonanza,Mediterranean,Cheap,Manhattan,03:42,5,false
+Sushi Sensation,Thai,Expensive,Queens,17:10,1,false
+The Hungry Bear,Thai,Medium,Manhattan,12:30,1,true
+The Hungry Bear,French,Medium,Bronx,08:57,2,true
+Noodle Nook,Mediterranean,Expensive,Manhattan,03:42,1,false
+Noodle Nook,Mediterranean,Medium,Queens,17:10,5,false
+Burger Barn,Greek,Medium,Staten Island,23:55,5,true
+Sizzle Steakhouse,Thai,Cheap,Queens,00:15,3,true
+The Hungry Bear,Mediterranean,Expensive,Harlem,00:15,2,true
+Pasta Paradise,Indian,Expensive,Bronx,12:30,1,true
+Sizzle Steakhouse,Greek,Cheap,Manhattan,23:55,1,false
+Tasty Tacos,Chinese,Expensive,Harlem,00:15,4,true
+BBQ Bonanza,Italian,Cheap,Bronx,23:55,2,false
+Tasty Tacos,Mexican,Expensive,Manhattan,08:57,3,false
+Burger Barn,Mediterranean,Expensive,Staten Island,23:55,2,true
+Deli Delight,Greek,Medium,Harlem,00:15,3,true
+Tasty Tacos,Mexican,Expensive,Brooklyn,21:05,5,false
+Sushi Sensation,Chinese,Medium,Bronx,12:30,4,true
+Deli Delight,Mexican,Expensive,Brooklyn,03:42,1,true
+BBQ Bonanza,Korean,Expensive,Queens,17:10,5,false
+Sizzle Steakhouse,French,Medium,Brooklyn,03:42,1,true
+Burger Barn,Thai,Medium,Manhattan,21:05,2,true
+Crispy Crust Pizzeria,Japanese,Expensive,Brooklyn,17:10,4,false
+Sushi Sensation,Mediterranean,Expensive,Staten Island,23:55,4,false
+Noodle Nook,Japanese,Expensive,Staten Island,03:42,3,true
+Sushi Sensation,Greek,Cheap,Staten Island,23:55,3,true
+Sushi Sensation,Chinese,Cheap,Queens,00:15,4,false
+Sushi Sensation,Mexican,Cheap,Queens,00:15,4,true
+Deli Delight,Thai,Cheap,Brooklyn,08:57,1,true
+Crispy Crust Pizzeria,Mexican,Cheap,Brooklyn,23:55,2,true
+Sushi Sensation,Italian,Expensive,Brooklyn,21:05,5,true
+Pasta Paradise,Chinese,Expensive,Staten Island,08:57,2,true
+Tasty Tacos,Thai,Cheap,Brooklyn,12:30,1,true
+The Hungry Bear,Chinese,Cheap,Harlem,23:55,2,false
+Sizzle Steakhouse,Indian,Expensive,Harlem,08:57,3,true
+Tasty Tacos,Thai,Medium,Brooklyn,00:15,3,false
+Deli Delight,Chinese,Cheap,Manhattan,23:55,5,true
+Burger Barn,Chinese,Expensive,Queens,03:42,4,false
+Pasta Paradise,French,Medium,Manhattan,12:30,3,true
+Deli Delight,Italian,Expensive,Queens,21:05,4,false
+Burger Barn,Thai,Medium,Staten Island,17:10,1,true
+The Hungry Bear,Mediterranean,Expensive,Queens,12:30,1,true
+The Hungry Bear,Thai,Medium,Staten Island,03:42,4,false
+Pasta Paradise,Japanese,Expensive,Queens,00:15,1,true
+Deli Delight,Mexican,Medium,Brooklyn,23:55,3,true
+Crispy Crust Pizzeria,Greek,Medium,Harlem,21:05,4,true
+Crispy Crust Pizzeria,Chinese,Cheap,Staten Island,23:55,4,true
+Noodle Nook,French,Expensive,Bronx,03:42,3,true
+Crispy Crust Pizzeria,Greek,Expensive,Staten Island,08:57,1,true
+Deli Delight,Korean,Cheap,Manhattan,23:55,3,false
+Deli Delight,Mexican,Cheap,Staten Island,00:15,5,false
+BBQ Bonanza,Greek,Expensive,Harlem,21:05,5,false
+Sizzle Steakhouse,Indian,Expensive,Bronx,21:05,3,true
+Pasta Paradise,Thai,Medium,Brooklyn,03:42,4,true
+Burger Barn,Japanese,Medium,Queens,08:57,3,true
+Tasty Tacos,Mediterranean,Cheap,Bronx,17:10,2,false
+The Hungry Bear,Indian,Cheap,Brooklyn,03:42,5,true
+The Hungry Bear,Greek,Cheap,Manhattan,17:10,3,false
+Crispy Crust Pizzeria,Korean,Medium,Queens,12:30,4,false
+BBQ Bonanza,Indian,Expensive,Queens,21:05,5,false
+Sizzle Steakhouse,Italian,Cheap,Manhattan,12:30,5,false
+The Hungry Bear,Greek,Cheap,Queens,00:15,5,false
+BBQ Bonanza,Japanese,Expensive,Bronx,08:57,5,true
+Burger Barn,Italian,Expensive,Bronx,17:10,4,true
+Sushi Sensation,Mexican,Cheap,Bronx,08:57,5,false
+Sizzle Steakhouse,Chinese,Cheap,Queens,12:30,4,true
+Tasty Tacos,Indian,Medium,Staten Island,23:55,3,false
+Burger Barn,Thai,Cheap,Manhattan,12:30,3,false
+The Hungry Bear,French,Expensive,Brooklyn,00:15,3,false
+Deli Delight,Italian,Expensive,Staten Island,08:57,2,false
+Crispy Crust Pizzeria,Korean,Expensive,Manhattan,12:30,3,false
+BBQ Bonanza,Mexican,Medium,Harlem,23:55,4,true
+Crispy Crust Pizzeria,Mediterranean,Cheap,Brooklyn,08:57,3,true
+Sizzle Steakhouse,Greek,Medium,Staten Island,23:55,4,true
+Sushi Sensation,Chinese,Medium,Manhattan,03:42,5,false
+Noodle Nook,Japanese,Cheap,Manhattan,17:10,5,true
+Burger Barn,Thai,Expensive,Staten Island,03:42,4,false
+Burger Barn,Greek,Expensive,Bronx,23:55,5,false
+Noodle Nook,Thai,Expensive,Staten Island,23:55,4,true
+BBQ Bonanza,Japanese,Cheap,Harlem,23:55,2,false
+The Hungry Bear,Italian,Expensive,Queens,12:30,4,true
+Tasty Tacos,Mediterranean,Expensive,Bronx,00:15,3,false
+Pasta Paradise,Thai,Medium,Manhattan,08:57,1,false
+BBQ Bonanza,Indian,Expensive,Staten Island,12:30,2,true
+Crispy Crust Pizzeria,French,Medium,Queens,12:30,4,true
+Tasty Tacos,Mediterranean,Medium,Manhattan,21:05,1,false
+Sushi Sensation,French,Cheap,Brooklyn,08:57,5,true
+Tasty Tacos,French,Cheap,Manhattan,12:30,4,false
+Burger Barn,Thai,Medium,Bronx,12:30,5,true
+The Hungry Bear,Italian,Expensive,Brooklyn,17:10,3,false
+Tasty Tacos,Mediterranean,Medium,Queens,08:57,4,true
+Burger Barn,French,Expensive,Staten Island,23:55,3,true
+Burger Barn,Indian,Expensive,Bronx,03:42,3,false
+Crispy Crust Pizzeria,Italian,Medium,Bronx,00:15,4,true
+Noodle Nook,Mediterranean,Medium,Staten Island,23:55,5,true
+Pasta Paradise,Mediterranean,Expensive,Queens,21:05,2,false
+Crispy Crust Pizzeria,Thai,Medium,Queens,08:57,2,false
+Deli Delight,Korean,Cheap,Harlem,17:10,5,true
+The Hungry Bear,Greek,Medium,Manhattan,21:05,4,false
+Sushi Sensation,Japanese,Cheap,Manhattan,21:05,4,true
+Burger Barn,Japanese,Expensive,Queens,21:05,1,false
+Pasta Paradise,Indian,Expensive,Harlem,17:10,5,false
+Sizzle Steakhouse,Korean,Medium,Harlem,23:55,3,false
+Noodle Nook,Greek,Expensive,Manhattan,00:15,5,true
+Sizzle Steakhouse,Italian,Medium,Harlem,08:57,5,false
+Sushi Sensation,Mexican,Cheap,Manhattan,12:30,3,true
+Deli Delight,Thai,Medium,Harlem,23:55,1,false
+Sushi Sensation,Korean,Cheap,Brooklyn,21:05,5,false
+Noodle Nook,Korean,Expensive,Brooklyn,12:30,4,false
+Sushi Sensation,Japanese,Expensive,Brooklyn,03:42,3,false
+Tasty Tacos,Indian,Medium,Manhattan,23:55,2,false
+Crispy Crust Pizzeria,Thai,Medium,Brooklyn,21:05,4,true
+Pasta Paradise,Japanese,Expensive,Queens,12:30,2,true
+Sushi Sensation,Italian,Cheap,Staten Island,17:10,3,false
+Pasta Paradise,Thai,Cheap,Queens,00:15,5,true
+Deli Delight,Chinese,Cheap,Staten Island,00:15,4,true
+Noodle Nook,Mexican,Cheap,Manhattan,23:55,3,false
+Sushi Sensation,French,Medium,Brooklyn,12:30,2,false
+Sizzle Steakhouse,Indian,Expensive,Queens,21:05,2,true
+Pasta Paradise,Thai,Medium,Brooklyn,00:15,1,false
+Burger Barn,Greek,Cheap,Brooklyn,00:15,5,true
+Sushi Sensation,Chinese,Expensive,Bronx,00:15,4,true
+The Hungry Bear,Korean,Cheap,Staten Island,03:42,3,false
+BBQ Bonanza,Japanese,Expensive,Harlem,03:42,5,true
+Burger Barn,Thai,Expensive,Harlem,03:42,1,false
+Burger Barn,Japanese,Medium,Bronx,03:42,1,true
+Burger Barn,Chinese,Expensive,Harlem,08:57,5,false
+Burger Barn,Chinese,Expensive,Brooklyn,12:30,2,false
+BBQ Bonanza,French,Medium,Harlem,03:42,5,true
+BBQ Bonanza,Japanese,Cheap,Bronx,00:15,2,false
+Noodle Nook,French,Medium,Queens,17:10,5,true
+Deli Delight,Chinese,Medium,Bronx,21:05,5,true
+Deli Delight,Indian,Medium,Brooklyn,03:42,4,false
+BBQ Bonanza,Japanese,Expensive,Queens,21:05,4,false
+BBQ Bonanza,Mediterranean,Medium,Bronx,00:15,3,false
